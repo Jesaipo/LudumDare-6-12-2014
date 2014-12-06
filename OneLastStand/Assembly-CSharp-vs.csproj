@@ -48,7 +48,7 @@
   <ItemGroup>
      <Compile Include="Assets\Script\Constantes\ConstantesManager.cs" />
      <Compile Include="Assets\Script\Constantes\Enum_StateGame.cs" />
-     <Compile Include="Assets\Script\Constantes\Enum_StateGame1.cs" />
+     <Compile Include="Assets\Script\Constantes\Enum_TurretType.cs" />
      <Compile Include="Assets\Script\EnnemiManager.cs" />
      <Compile Include="Assets\Script\GameMain.cs" />
      <Compile Include="Assets\Script\PlayerManager.cs" />

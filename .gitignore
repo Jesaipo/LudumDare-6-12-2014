@@ -15,6 +15,7 @@ $RECYCLE.BIN/
 *.msp
 
 /OneLastStand/Temp/*
+/OneLastStand/Library/*
 
 # =========================
 # Operating System Files
